@@ -1,16 +1,24 @@
-# todolist_app
+## About this Project
 
-A new Flutter project.
+This project is part of a YouTube tutorial demonstrating how to update the app icon and native splash screen in a Flutter project for both Android and iOS platforms.
 
-## Getting Started
+## Packages Used
 
-This project is a starting point for a Flutter application.
+- **[flutter_native_splash](https://pub.dev/packages/flutter_native_splash):**
+  This package is used to automatically generate native splash screens for Android and iOS. It simplifies the process of creating visually appealing splash screens.
 
-A few resources to get you started if this is your first Flutter project:
+- **[flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons):**
+  This package is used to easily update the app launcher icons for both Android and iOS platforms. It allows you to define a single configuration for your app icons and generates the required assets for each platform.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Steps Covered in the Tutorial
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Setting up the `flutter_native_splash` package to configure and generate splash screens.
+2. Using the `flutter_launcher_icons` package to update the app launcher icons.
+3. Testing the updated splash screen and app icons on both Android and iOS devices.
+
+For more details, refer to the YouTube video accompanying this project.
+
+## Related YouTube Videos
+
+- [How to Change App Icon & App Name in Flutter Step-By-Step](https://youtu.be/4MRwXvWPEck)
+- [How to Add Native Splash Screen in Flutter](Comming Soon)
