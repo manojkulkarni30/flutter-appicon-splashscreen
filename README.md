@@ -21,4 +21,4 @@ For more details, refer to the YouTube video accompanying this project.
 ## Related YouTube Videos
 
 - [How to Change App Icon & App Name in Flutter Step-By-Step](https://youtu.be/4MRwXvWPEck)
-- [How to Add Native Splash Screen in Flutter](Comming Soon)
+- [How to Add Native Splash Screen in Flutter](https://youtu.be/lLFaZfI-NwI)
